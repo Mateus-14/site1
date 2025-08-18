@@ -1,0 +1,40 @@
+#header1css{
+    height: 13vh;
+    width: 100%;
+    background-color: #CE234D ;
+    display: flex;
+    align-items:center;
+    color: rgb(250, 183, 0);
+    
+    
+    }
+    body{
+        background-color: #AD1313;
+    }
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    #lupa{
+        width: 10%;
+
+    }
+    #l1{
+        display: flex;
+        background-color: #6C1111;
+    }
+#caixa{ margin-top: 100px !important;
+ display:flex;
+ margin: auto;
+ flex-direction: column;
+ background-color: #6C1111;
+    border: 20px #6C1111 solid;
+    width: 50%
+}
+#chiquinha{
+    display: flex;
+}
+#imagem { width: 40%;
+
+}

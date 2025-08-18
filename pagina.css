@@ -1,0 +1,90 @@
+#header1css{
+    height: 13vh;
+    width: 100%;
+    background-color: #CE234D ;
+    display: flex;
+    align-items:center;
+    color: rgb(250, 183, 0);
+    
+    
+    }
+    #pesquisa{
+        
+    }
+    
+    body{
+        background-color: #AD1313;
+    }
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    #logo{
+        height: 100%;}
+    #lin1{
+            display: flex;
+            justify-content: space-between;
+            width: 40%;
+            margin-left: 25%;
+        }
+        #porta{
+            width: 5%;
+            
+         
+        }
+        .linha1{
+            align-items: start;
+        }
+        .baranga{
+            margin-top: 30px;
+            justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 130px;
+    display: flex;
+            background-color: #F07070;
+        }
+        #letraA{
+            margin-top: 30px;
+            margin-left: 35px;
+            background-color: #F07070;
+        }
+        .destaque{
+            height: 100%;
+            display: flex;
+            gap: 30px;
+            justify-content: center;
+            
+        }
+        #row-destaque{
+            display: flex;
+            justify-content: end;
+            display: grid;
+            width: 100%;}
+            .destaque img{
+                width: 10%;
+            }
+            
+
+           
+            .subd{
+                height: 100%;
+                display: flex;
+                gap: 30px;
+                justify-content: center;
+                
+            }
+            #row-subd{
+                display: flex;
+                justify-content: end;
+                display: grid;
+                width: 100%;}
+
+                .subd img{
+                    width: 10%;}
+                    #LetraB{
+                        margin-top: 30px;
+                        margin-left: 35px;
+                        background-color: #F07070;
+                    }

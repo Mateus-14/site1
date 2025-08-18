@@ -1,0 +1,44 @@
+body{
+    background-color: #984646;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+    #eg{
+        width: 100%;
+
+    }
+    #lista{
+        margin-top: 10vh;
+        margin-left: 10vh;
+        
+    }
+    #tipo{
+
+        margin-left: 19vh;
+    }
+
+    #lista2{
+        display: none;
+        transition: 0.5s;
+    }
+    #caixa{
+        width: 30px;
+        height: 30px;
+    }
+    #caixa:checked ~#lista2 {
+display: block;
+position: absolute;
+top: 100%;
+    }
+
+    #pagamento{
+        width: 200px;
+        height: 4vh;
+        background-color: #803030;
+        display: flex;
+        align-items: center;
+        padding-left: 10px;
+        position: relative;
+    }

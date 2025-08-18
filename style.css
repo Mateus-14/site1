@@ -1,0 +1,77 @@
+#header1css{
+height: 8vh;
+width: 100%;
+background-color: #CE234D ;
+display: flex;
+align-items:center;
+color: white;
+
+
+}
+
+body{
+    background-color: #AD1313;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#logo{
+    height: 100%;
+    
+}
+.linha1{
+    display: flex;
+    justify-content: space-around;
+    
+    
+}
+#lin1{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    margin-left: 25%;
+}
+#caixa
+{ 
+    text-align: center;
+    width: 20%;
+    height: 30vh;
+    background-color: #E51F1F;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+ }
+#caixamenor{
+    width: 100%;
+    height: 92vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boxtext{  
+    background-color: #F56F6F;
+    width: 385px;
+
+    
+}
+#legend{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    left: 930px;
+    top: 750px;
+    display: flex;
+    
+    
+}
+#sobre{
+    position: absolute;
+    align-items: center;
+    justify-content: center;
+    left: 660px;
+    top: 790px;
+    display: flex;
+    
+}
