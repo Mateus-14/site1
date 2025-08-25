@@ -75,3 +75,11 @@ body{
     display: flex;
     
 }
+#contato{position: absolute;
+    align-items: center;
+    justify-content: center;
+    left: 820px;
+    top: 720px;
+    display: flex;
+
+}
